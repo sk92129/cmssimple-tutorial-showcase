@@ -57,11 +57,10 @@ class _CmsTextState extends State<CmsText> {
     // Get the style from the data model
     style = dataModels[widget.itemName]?.style;
 
-    return Html(
-      data: item?.html ?? "",
-      extensions: [
-        TagExtension(tagsToExtend: {"flutter"}, child: const FlutterLogo()),
-      ],
-    );
+    if (style == "html") {
+      return Center(child: Html(data: item?.html ?? ""));
+    } else {
+      return Center(child: Text(item?.body ?? ""));
+    }
   }
 }
