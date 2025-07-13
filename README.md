@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The password and schema is not valid anymore.  You need to create your own zesty account and set up your own schema and content.
+
 ## screen shot of running on Android
 
 <img width="382" height="829" alt="image" src="https://github.com/user-attachments/assets/317037e3-899f-46c7-9f14-8391687c735f" />
