@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## screen shot of running on Android
 
-This project is a starting point for a Flutter application.
+<img width="382" height="829" alt="image" src="https://github.com/user-attachments/assets/317037e3-899f-46c7-9f14-8391687c735f" />
 
-A few resources to get you started if this is your first Flutter project:
+## screen shot of  CMS editing system for the specific item
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="652" height="790" alt="image" src="https://github.com/user-attachments/assets/ccd60b8e-d957-47f8-94c8-eacbe20c5622" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## screen shot of the CMS schema for the textBoxes
+
+<img width="595" height="455" alt="image" src="https://github.com/user-attachments/assets/a767d96d-42a8-440b-8adb-5f86e18e8a6c" />
